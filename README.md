@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Formiga
+- 👀 I’m interested in java, 3d modeling, pixel arts
+- 🌱 I’m currently learning java
